@@ -81,11 +81,11 @@ YatraBot allows you to plan your trip in a few simple steps:
 
 ## 📧 Contact
 
-If you have any questions or need support, feel free to contact us at [romirbedekar60334@gmail.com](mailto:romirbedekar60334@gmail.com).
+If you have any questions or need support, feel free to contact us at sudiptasaikia6@gmail.com.
 
 ## 🌍 Demo
 
-[Click here to try TrippoBot now!](https://trippobot.vercel.app/)
+[Click here to try YatraBot now!](https://trippobot.vercel.app/)
 
 ---
 
