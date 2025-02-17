@@ -1,6 +1,6 @@
-# TrippoBot
+# YatraBot
 
-**TrippoBot** is an AI-powered travel assistant designed to make travel planning easy and enjoyable. With its multilingual support and smart features, TrippoBot ensures you have all the information you need, right at your fingertips, for a seamless and memorable journey.
+**YatraBot** is an AI-powered travel assistant designed to make travel planning easy and enjoyable. With its multilingual support and smart features, TrippoBot ensures you have all the information you need, right at your fingertips, for a seamless and memorable journey.
 
 ## Video
 
@@ -73,7 +73,7 @@ To get started with TrippoBot, simply:
 
 ## 📋 Usage
 
-TrippoBot allows you to plan your trip in a few simple steps:
+YatraBot allows you to plan your trip in a few simple steps:
 
 1. **Choose Your Language**: TrippoBot supports multiple languages to enhance the user experience.
 2. **Select a Subscription Model**: Pick between Standard, Gold, or Diamond depending on your travel needs.
